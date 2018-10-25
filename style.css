@@ -1,0 +1,15 @@
+/*
+    Theme Name: Fictional University
+    Author: Jeffrey Phelps
+    Version: 1.0
+*/
+
+header {
+    background-color: #dddddd;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    background-color: #dddddd;
+}
